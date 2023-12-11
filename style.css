@@ -1,0 +1,41 @@
+header{
+    font-family:cursive;
+  }
+
+  h3{
+    text-align: center; 
+  }
+
+  form{
+    text-align: center;
+  }
+  
+  img{
+    width:100px;
+    height:100px;
+    border-width: 5px;
+    border-style:solid;
+  }
+  
+  body{
+      background-image: url('https://i.pinimg.com/736x/ca/82/7b/ca827bbfa967be04b8f9cf2f6fe3f8cf.jpg');
+      background-repeat: no-repeat;
+      background-size: 1500px 700px;
+      opacity: 2;
+}
+  
+  .solid{
+     border-style: solid;
+     border-width: 2px;
+  }
+    
+  .grid-container{
+    display:grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+  }
+  
+  #center{
+    text-align:center;
+  }
+  
